@@ -11,8 +11,6 @@
 Tensors → Autograd → Manual Loop → nn.Module → DataLoader → Production Classifier
 
 
-[![Decision Boundary](results/day6_boundary.png)](results/day6_boundary.png)
-
 ## 📚 Daily Progress
 
 | Day | Concept | File | Key Skill |
@@ -42,8 +40,8 @@ for epoch in range(epochs):
 
 ## 🏆 Results
 
-**Linear Regression (Day 3):** ![Day3](results/day3_fit.png)  
-**Binary Classifier (Day 6):** ![Day6](results/day6_boundary.png)
+**Linear Regression (Day 3):** ![Day3](results-day3_fit.png)  
+**Binary Classifier (Day 6):** ![Day6](day6_boundary.png)
 
 ## 🚀 Quick Start
 ```bash
